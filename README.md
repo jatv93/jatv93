@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 check out my stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatv93&show_icons=true&theme=radical)
+
 
 <!--
 **jatv93/jatv93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
